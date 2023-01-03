@@ -42,6 +42,10 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
+*** full adder 
+
+
+
 RTL realization
 
 ### Output:
