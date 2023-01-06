@@ -59,24 +59,28 @@ assign carry = ((a&b)|(a^b)&c);
 endmodule
 ```
 ### RTL realization:
+
 HALF ADDER:
 ![](halfadd.png)
 FULL ADDER:
 ![](fulladd.png)
 
 ## Logic Diagram & TruthTable:
+
 HALF ADDER:
 ![](halfaddertt.png.png)
 FULL ADDER:
 ![](fulladdertt.png.png)
 
 ### TIMING DIAGRAM:
+
 HALF ADDER:
 ![](halfaddtiming.png)
 FULL ADDER:
 ![](fulladdtiming.png)
 
 ### TRUTH TABLE:
+
 HALF ADDER:
 ![](halfaddtt.png.png)
 FULL ADDER:
