@@ -62,6 +62,7 @@ endmodule
 
 HALF ADDER:
 ![](halfadd.png)
+
 FULL ADDER:
 ![](fulladd.png)
 
@@ -69,6 +70,7 @@ FULL ADDER:
 
 HALF ADDER:
 ![](halfaddertt.png.png)
+
 FULL ADDER:
 ![](fulladdertt.png.png)
 
@@ -76,6 +78,7 @@ FULL ADDER:
 
 HALF ADDER:
 ![](halfaddtiming.png)
+
 FULL ADDER:
 ![](fulladdtiming.png)
 
@@ -83,6 +86,7 @@ FULL ADDER:
 
 HALF ADDER:
 ![](halfaddtt.png.png)
+
 FULL ADDER:
 ![](fulladdtt.png.png)
 
